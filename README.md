@@ -1,2 +1,2 @@
-# hex-generator
-Hex Color Generator Using HTML + CSS + JAVASCRIPT
+# Hexadecimal Generator
+Generating Custom Colors Using Input Type Color In HTML CSS and JavaScript.
