@@ -14,7 +14,7 @@ body{
     justify-content: space-around;
     height: 200px;
     width: 600px;
-    background: white;
+    background: #fff;
     box-shadow: 0 0 3px #30323d;
     border-radius: 10px;
 }
@@ -25,5 +25,16 @@ body{
     border: none;
     height: 40px;
     width: 60px;
+    cursor: pointer;
+}
+
+#btn{
+    outline: none;
+    border: none;
+    background: black;
+    color: #fff;
+    height: 40px;
+    width: 140px;
+    border-radius: 50px;
     cursor: pointer;
 }
