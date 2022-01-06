@@ -1,0 +1,29 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 600px;
+    background: white;
+    box-shadow: 0 0 3px #30323d;
+    border-radius: 10px;
+}
+
+#colorPanel{
+    background: none;
+    outline: none;
+    border: none;
+    height: 40px;
+    width: 60px;
+    cursor: pointer;
+}
